@@ -1,0 +1,9 @@
+id - TINYINT - PRIMARY KEY - NOTNULL - AUTO_INCREMENT - UNIQUE
+
+license_plate - VARCHAR(7) - NULL 
+
+kilometres - INT - NOTNULL 
+
+registration_year - DATE - NOTNULL 
+
+conditions - TINYINT - NOTNULL
